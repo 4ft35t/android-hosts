@@ -21,6 +21,7 @@
 74.125.68.98 googleapis.l.google.com
 74.125.68.98 googleapis-ajax.google.com
 74.125.68.98 googleapis-ajax.l.google.com
+74.125.68.98 gg.google.com
 
 # mail
 74.125.68.98 mail.google.com
@@ -127,6 +128,10 @@
 74.125.68.98 www.googleapis.com
 74.125.68.98 fonts.googleapis.com
 74.125.68.98 maps.googleapis.com
+74.125.68.98 ajax.googleapis.com
+74.125.68.98 www.googleapis.com
+74.125.68.98 googleapis.l.google.com
+74.125.68.98 android.googleapis.com
 
 74.125.68.98 www.gstatic.com
 74.125.68.98 ssl.gstatic.com
@@ -251,6 +256,7 @@
 74.125.68.98 www.youtube.com
 74.125.68.98 www.youtube-nocookie.com
 74.125.68.98 gdata.youtube.com
+74.125.68.98 r2---sn-i3b7sn7k.googlevideo.com
 74.125.68.98 r10---sn-i3b7sn7d.googlevideo.com
 74.125.68.98 ytimg.l.google.com
 74.125.68.98 i.ytimg.com
