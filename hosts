@@ -2,11 +2,11 @@
 
 74.125.68.38 www.google.com
 74.125.68.38 m.google.com
-74.125.68.38 www.google.com.hk
 74.125.68.38 accounts.google.com
 74.125.68.38 dl.google.com
 74.125.68.38 mtalk.google.com
 74.125.68.38 tools.google.com
+74.125.68.38 android.l.google.com
 74.125.68.38 android.clients.google.com
 74.125.68.38 calendar.google.com
 74.125.68.38 checkout.google.com
@@ -35,6 +35,26 @@
 
 74.125.68.38 www.gstatic.com
 74.125.68.38 ssl.gstatic.com
+74.125.68.38 csi.gstatic.com
+74.125.68.38 g0.gstatic.com
+74.125.68.38 g1.gstatic.com
+74.125.68.38 g2.gstatic.com
+74.125.68.38 g3.gstatic.com
+74.125.68.38 maps.gstatic.com
+74.125.68.38 mt0.gstatic.com
+74.125.68.38 mt1.gstatic.com
+74.125.68.38 mt2.gstatic.com
+74.125.68.38 mt3.gstatic.com
+74.125.68.38 mt4.gstatic.com
+74.125.68.38 mt5.gstatic.com
+74.125.68.38 mt6.gstatic.com
+74.125.68.38 mt7.gstatic.com
+74.125.68.38 ssl.gstatic.com
+74.125.68.38 t0.gstatic.com
+74.125.68.38 t1.gstatic.com
+74.125.68.38 t2.gstatic.com
+74.125.68.38 t3.gstatic.com
+
 74.125.68.38 lh1.ggpht.com
 74.125.68.38 lh2.ggpht.com
 74.125.68.38 lh3.ggpht.com
@@ -42,6 +62,12 @@
 74.125.68.38 lh5.ggpht.com
 74.125.68.38 lh6.ggpht.com
 74.125.68.38 lh7.ggpht.com
+74.125.68.38 nt0.ggpht.com
+74.125.68.38 nt1.ggpht.com
+74.125.68.38 nt2.ggpht.com
+74.125.68.38 nt3.ggpht.com
+74.125.68.38 nt4.ggpht.com
+74.125.68.38 nt5.ggpht.com
 
 74.125.68.38 lh2.googleusercontent.com
 74.125.68.38 lh3.googleusercontent.com
@@ -51,4 +77,25 @@
 74.125.68.38 lh7.googleusercontent.com
 
 74.125.68.38 oauth.googleusercontent.com
-mail-attachment.googleusercontent.com
+74.125.68.38 mail-attachment.googleusercontent.com
+
+# Google Play Download
+74.125.68.38 r1 sn-i3b7sn7d.c.android.clients.google.com
+74.125.68.38 r2 sn-npo7enee.c.android.clients.google.com
+74.125.68.38 r3 sn-30a7en7d.c.android.clients.google.com
+74.125.68.38 r5 sn-npo7ene7.c.android.clients.google.com
+74.125.68.38 r6 sn-npo7enel.c.android.clients.google.com
+74.125.68.38 r8 pek01s02.c.android.clients.google.com
+74.125.68.38 r8 sn-30a7en7z.c.android.clients.google.com
+74.125.68.38 r9 sn-i3b7sn7k.c.android.clients.google.com
+74.125.68.38 r12 pek01s02.c.android.clients.google.com
+74.125.68.38 r13 pek01s02.c.android.clients.google.com
+74.125.68.38 r15 pek01s02.c.android.clients.google.com
+74.125.68.38 r16 pek01s02.c.android.clients.google.com
+74.125.68.38 r17 sn-30a7en76.c.android.clients.google.com
+74.125.68.38 r18 pek01s02.c.android.clients.google.com
+74.125.68.38 r19 pek01s02.c.android.clients.google.com
+74.125.68.38 r19 sn-i3b76n7l.c.android.clients.google.com
+74.125.68.38 r20 sn-npo7enel.c.android.clients.google.com
+74.125.68.38 r20 sn-i3b76n7e.c.android.clients.google.com
+74.125.68.38 r20 pek01s02.c.android.clients.google.com
