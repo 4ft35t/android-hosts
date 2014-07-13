@@ -15,10 +15,18 @@
 74.125.68.38 plus.google.com
 74.125.68.38 maps-api-ssl.google.com
 74.125.68.38 apis.google.com
+74.125.68.38 play.google.com
+74.125.68.38 keep.google.com
+
+
+74.125.68.38 clients1.google.com
 74.125.68.38 clients2.google.com
 74.125.68.38 clients3.google.com
 74.125.68.38 clients4.google.com
-74.125.68.38 play.google.com
+74.125.68.38 clients5.google.com
+74.125.68.38 clients6.google.com
+
+74.125.68.38 support.google.com
 
 74.125.68.38 android.googleapis.com
 74.125.68.38 translate.googleapis.com
@@ -41,4 +49,6 @@
 74.125.68.38 lh5.googleusercontent.com
 74.125.68.38 lh6.googleusercontent.com
 74.125.68.38 lh7.googleusercontent.com
+
 74.125.68.38 oauth.googleusercontent.com
+mail-attachment.googleusercontent.com
