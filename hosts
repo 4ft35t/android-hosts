@@ -18,9 +18,6 @@
 74.125.68.98 wallet.google.com
 74.125.68.98 id.google.com
 74.125.68.98 geoauth.google.com
-74.125.68.98 googleapis.l.google.com
-74.125.68.98 googleapis-ajax.google.com
-74.125.68.98 googleapis-ajax.l.google.com
 74.125.68.98 gg.google.com
 
 # mail
@@ -132,6 +129,9 @@
 74.125.68.98 www.googleapis.com
 74.125.68.98 googleapis.l.google.com
 74.125.68.98 android.googleapis.com
+74.125.68.98 googleapis.l.google.com
+74.125.68.98 googleapis-ajax.google.com
+74.125.68.98 googleapis-ajax.l.google.com
 
 74.125.68.98 www.gstatic.com
 74.125.68.98 ssl.gstatic.com
@@ -256,8 +256,6 @@
 74.125.68.98 www.youtube.com
 74.125.68.98 www.youtube-nocookie.com
 74.125.68.98 gdata.youtube.com
-74.125.68.98 r2---sn-i3b7sn7k.googlevideo.com
-74.125.68.98 r10---sn-i3b7sn7d.googlevideo.com
 74.125.68.98 ytimg.l.google.com
 74.125.68.98 i.ytimg.com
 74.125.68.98 i1.ytimg.com
@@ -265,3 +263,17 @@
 74.125.68.98 i3.ytimg.com
 74.125.68.98 i4.ytimg.com
 74.125.68.98 s.ytimg.com
+74.125.68.98 r1---sn-i3b7sn7k.googlevideo.com
+74.125.68.98 r2---sn-i3b7sn7k.googlevideo.com
+74.125.68.98 r2---sn-i3b7sn7r.googlevideo.com
+74.125.68.98 r3---sn-i3b7sn7d.googlevideo.com
+74.125.68.98 r4---sn-i3b7sn7k.googlevideo.com
+74.125.68.98 r4---sn-i3b7sn76.googlevideo.com
+74.125.68.98 r5---sn-i3b7sn76.googlevideo.com
+74.125.68.98 r10---sn-i3b7sn7d.googlevideo.com
+74.125.68.98 r11---sn-i3b7sn7r.googlevideo.com
+74.125.68.98 r13---sn-i3b7sn7r.googlevideo.com
+74.125.68.98 r13---sn-i3b7sn76.googlevideo.com
+74.125.68.98 r15---sn-i3b7sn7k.googlevideo.com
+74.125.68.98 r17---sn-i3b7sn7d.googlevideo.com
+74.125.68.98 r17---sn-i3b7sn76.googlevideo.com
