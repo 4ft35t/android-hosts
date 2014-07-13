@@ -1,9 +1,8 @@
-#UPDATE:2014-07-21 22:00
+# UPDATE:2014-07-14
 
 74.125.68.98 www.google.com
 74.125.68.98 m.google.com
 74.125.68.98 accounts.google.com
-74.125.68.98 dl.google.com
 74.125.68.98 mtalk.google.com
 74.125.68.98 tools.google.com
 74.125.68.98 android.l.google.com
@@ -11,7 +10,6 @@
 74.125.68.98 calendar.google.com
 74.125.68.98 checkout.google.com
 74.125.68.98 drive.google.com
-74.125.68.98 mail.google.com
 74.125.68.98 plus.google.com
 74.125.68.98 maps-api-ssl.google.com
 74.125.68.98 apis.google.com
@@ -19,6 +17,87 @@
 74.125.68.98 keep.google.com
 74.125.68.98 wallet.google.com
 74.125.68.98 id.google.com
+74.125.68.98 geoauth.google.com
+74.125.68.98 googleapis.l.google.com
+74.125.68.98 googleapis-ajax.google.com
+74.125.68.98 googleapis-ajax.l.google.com
+
+# mail
+74.125.68.98 mail.google.com
+74.125.68.98 oauth.googleusercontent.com
+74.125.68.98 mail-attachment.googleusercontent.com
+74.125.68.98 m.googlemail.com
+74.125.68.98 filetransferenabled.mail.google.com
+74.125.68.98 chatenabled.mail.google.com
+
+74.125.68.98 dl.google.com
+74.125.68.98 dl.l.google.com
+74.125.68.98 dl-ssl.google.com
+
+74.125.68.98 encrypted.google.com
+74.125.68.98 encrypted-tbn.l.google.com
+74.125.68.98 encrypted-tbn0.google.com
+74.125.68.98 encrypted-tbn1.google.com
+74.125.68.98 encrypted-tbn2.google.com
+74.125.68.98 encrypted-tbn3.google.com
+
+# docs
+74.125.68.98 docs.google.com
+74.125.68.98 0.docs.google.com
+74.125.68.98 0.drive.google.com
+74.125.68.98 1.docs.google.com
+74.125.68.98 1.drive.google.com
+74.125.68.98 10.docs.google.com
+74.125.68.98 10.drive.google.com
+74.125.68.98 11.docs.google.com
+74.125.68.98 11.drive.google.com
+74.125.68.98 12.docs.google.com
+74.125.68.98 12.drive.google.com
+74.125.68.98 13.docs.google.com
+74.125.68.98 13.drive.google.com
+74.125.68.98 14.docs.google.com
+74.125.68.98 14.drive.google.com
+74.125.68.98 15.docs.google.com
+74.125.68.98 15.drive.google.com
+74.125.68.98 16.docs.google.com
+74.125.68.98 16.drive.google.com
+74.125.68.98 2.docs.google.com
+74.125.68.98 2.drive.google.com
+74.125.68.98 3.docs.google.com
+74.125.68.98 3.drive.google.com
+74.125.68.98 4.docs.google.com
+74.125.68.98 4.drive.google.com
+74.125.68.98 5.docs.google.com
+74.125.68.98 5.drive.google.com
+74.125.68.98 6.docs.google.com
+74.125.68.98 6.drive.google.com
+74.125.68.98 7.docs.google.com
+74.125.68.98 7.drive.google.com
+74.125.68.98 8.docs.google.com
+74.125.68.98 8.drive.google.com
+74.125.68.98 9.docs.google.com
+74.125.68.98 9.drive.google.com
+74.125.68.98 docs0.google.com
+74.125.68.98 docs1.google.com
+74.125.68.98 docs2.google.com
+74.125.68.98 docs3.google.com
+74.125.68.98 docs4.google.com
+74.125.68.98 docs5.google.com
+74.125.68.98 docs6.google.com
+74.125.68.98 docs7.google.com
+74.125.68.98 docs8.google.com
+74.125.68.98 docs9.google.com
+74.125.68.98 drive.google.com
+74.125.68.98 drive0.google.com
+74.125.68.98 drive1.google.com
+74.125.68.98 drive2.google.com
+74.125.68.98 drive3.google.com
+74.125.68.98 drive4.google.com
+74.125.68.98 drive5.google.com
+74.125.68.98 drive6.google.com
+74.125.68.98 drive7.google.com
+74.125.68.98 drive8.google.com
+74.125.68.98 drive9.google.com
 
 74.125.68.98 clients1.google.com
 74.125.68.98 clients2.google.com
@@ -85,6 +164,7 @@
 74.125.68.98 nt4.ggpht.com
 74.125.68.98 nt5.ggpht.com
 
+74.125.68.98 webcache.googleusercontent.com
 74.125.68.98 lh2.googleusercontent.com
 74.125.68.98 lh3.googleusercontent.com
 74.125.68.98 lh4.googleusercontent.com
@@ -100,8 +180,13 @@
 74.125.68.98 sp6.googleusercontent.com
 74.125.68.98 sp7.googleusercontent.com
 
-74.125.68.98 oauth.googleusercontent.com
-74.125.68.98 mail-attachment.googleusercontent.com
+74.125.68.98 gp0.googleusercontent.com
+74.125.68.98 gp1.googleusercontent.com
+74.125.68.98 gp2.googleusercontent.com
+74.125.68.98 gp3.googleusercontent.com
+74.125.68.98 gp4.googleusercontent.com
+74.125.68.98 gp5.googleusercontent.com
+74.125.68.98 gp6.googleusercontent.com
 
 74.125.68.98 code-opensocial.googleusercontent.com
 74.125.68.98 doc-0k-1s-docs.googleusercontent.com
@@ -127,22 +212,39 @@
 74.125.68.98 images-docs-opensocial.googleusercontent.com
 
 # Google Play Download
-74.125.68.98 r1 sn-i3b7sn7d.c.android.clients.google.com
-74.125.68.98 r2 sn-npo7enee.c.android.clients.google.com
-74.125.68.98 r3 sn-30a7en7d.c.android.clients.google.com
-74.125.68.98 r5 sn-npo7ene7.c.android.clients.google.com
-74.125.68.98 r6 sn-npo7enel.c.android.clients.google.com
-74.125.68.98 r8 pek01s02.c.android.clients.google.com
-74.125.68.98 r8 sn-30a7en7z.c.android.clients.google.com
-74.125.68.98 r9 sn-i3b7sn7k.c.android.clients.google.com
-74.125.68.98 r12 pek01s02.c.android.clients.google.com
-74.125.68.98 r13 pek01s02.c.android.clients.google.com
-74.125.68.98 r15 pek01s02.c.android.clients.google.com
-74.125.68.98 r16 pek01s02.c.android.clients.google.com
-74.125.68.98 r17 sn-30a7en76.c.android.clients.google.com
-74.125.68.98 r18 pek01s02.c.android.clients.google.com
-74.125.68.98 r19 pek01s02.c.android.clients.google.com
-74.125.68.98 r19 sn-i3b76n7l.c.android.clients.google.com
-74.125.68.98 r20 sn-npo7enel.c.android.clients.google.com
-74.125.68.98 r20 sn-i3b76n7e.c.android.clients.google.com
-74.125.68.98 r20 pek01s02.c.android.clients.google.com
+74.125.68.98 r1---sn-i3b7sn7d.c.android.clients.google.com
+74.125.68.98 r2---sn-npo7enee.c.android.clients.google.com
+74.125.68.98 r3---sn-30a7en7d.c.android.clients.google.com
+74.125.68.98 r5---sn-npo7ene7.c.android.clients.google.com
+74.125.68.98 r6---sn-npo7enel.c.android.clients.google.com
+74.125.68.98 r8---pek01s02.c.android.clients.google.com
+74.125.68.98 r8---sn-30a7en7z.c.android.clients.google.com
+74.125.68.98 r8---sn-5hn7su7d.c.android.clients.google.com
+74.125.68.98 r9---sn-i3b7sn7k.c.android.clients.google.com
+74.125.68.98 r10---sn-i3b7sn7k.c.android.clients.google.com
+74.125.68.98 r12---pek01s02.c.android.clients.google.com
+74.125.68.98 r13---pek01s02.c.android.clients.google.com
+74.125.68.98 r15---pek01s02.c.android.clients.google.com
+74.125.68.98 r16---pek01s02.c.android.clients.google.com
+74.125.68.98 r17---sn-30a7en76.c.android.clients.google.com
+74.125.68.98 r18---pek01s02.c.android.clients.google.com
+74.125.68.98 r19---pek01s02.c.android.clients.google.com
+74.125.68.98 r19---sn-i3b76n7l.c.android.clients.google.com
+74.125.68.98 r20---sn-npo7enel.c.android.clients.google.com
+74.125.68.98 r20---sn-i3b76n7e.c.android.clients.google.com
+74.125.68.98 r20---pek01s02.c.android.clients.google.com
+
+# youtube
+74.125.68.98 accounts.youtube.com
+74.125.68.98 apiblog.youtube.com
+74.125.68.98 help.youtube.com
+74.125.68.98 insight.youtube.com
+74.125.68.98 m.youtube.com
+74.125.68.98 ytimg.l.google.com
+74.125.68.98 www.youtube.com
+74.125.68.98 i.ytimg.com
+74.125.68.98 i1.ytimg.com
+74.125.68.98 i2.ytimg.com
+74.125.68.98 i3.ytimg.com
+74.125.68.98 i4.ytimg.com
+74.125.68.98 s.ytimg.com
