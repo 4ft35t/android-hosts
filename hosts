@@ -17,7 +17,8 @@
 74.125.68.38 apis.google.com
 74.125.68.38 play.google.com
 74.125.68.38 keep.google.com
-
+74.125.68.38 wallet.google.com
+74.125.68.38 id.google.com
 
 74.125.68.38 clients1.google.com
 74.125.68.38 clients2.google.com
@@ -26,12 +27,27 @@
 74.125.68.38 clients5.google.com
 74.125.68.38 clients6.google.com
 
+
+74.125.68.38 client-channel.google.com
+74.125.68.38 0.client-channel.google.com
+74.125.68.38 1.client-channel.google.com
+74.125.68.38 2.client-channel.google.com
+74.125.68.38 3.client-channel.google.com
+74.125.68.38 4.client-channel.google.com
+74.125.68.38 5.client-channel.google.com
+74.125.68.38 5.client-channel.google.com
+74.125.68.38 7.client-channel.google.com
+74.125.68.38 8.client-channel.google.com
+74.125.68.38 9.client-channel.google.com
+
 74.125.68.38 support.google.com
 
 74.125.68.38 android.googleapis.com
 74.125.68.38 translate.googleapis.com
 74.125.68.38 play.googleapis.com
 74.125.68.38 www.googleapis.com
+74.125.68.38 fonts.googleapis.com
+74.125.68.38 maps.googleapis.com
 
 74.125.68.38 www.gstatic.com
 74.125.68.38 ssl.gstatic.com
@@ -75,6 +91,13 @@
 74.125.68.38 lh5.googleusercontent.com
 74.125.68.38 lh6.googleusercontent.com
 74.125.68.38 lh7.googleusercontent.com
+74.125.68.38 sp1.googleusercontent.com
+74.125.68.38 sp2.googleusercontent.com
+74.125.68.38 sp3.googleusercontent.com
+74.125.68.38 sp4.googleusercontent.com
+74.125.68.38 sp5.googleusercontent.com
+74.125.68.38 sp6.googleusercontent.com
+74.125.68.38 sp7.googleusercontent.com
 
 74.125.68.38 oauth.googleusercontent.com
 74.125.68.38 mail-attachment.googleusercontent.com
