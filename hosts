@@ -1,6 +1,7 @@
 # UPDATE:2014-07-14
 
 74.125.68.98 www.google.com
+74.125.68.98 www.google.com.hk
 74.125.68.98 m.google.com
 74.125.68.98 accounts.google.com
 74.125.68.98 mtalk.google.com
@@ -105,7 +106,6 @@
 74.125.68.98 clients4.google.com
 74.125.68.98 clients5.google.com
 74.125.68.98 clients6.google.com
-
 
 74.125.68.98 client-channel.google.com
 74.125.68.98 0.client-channel.google.com
@@ -246,6 +246,8 @@
 74.125.68.98 r3---sn-30a7en7d.c.android.clients.google.com
 74.125.68.98 r5---sn-npo7ene7.c.android.clients.google.com
 74.125.68.98 r6---sn-npo7enel.c.android.clients.google.com
+74.125.68.98 r7---sn-i3b7snek.c.android.clients.google.com
+74.125.68.98 r7---sn-i3b7sn7r.c.android.clients.google.com
 74.125.68.98 r8---pek01s02.c.android.clients.google.com
 74.125.68.98 r8---sn-30a7en7z.c.android.clients.google.com
 74.125.68.98 r8---sn-5hn7su7d.c.android.clients.google.com
