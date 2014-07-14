@@ -100,6 +100,13 @@
 74.125.68.98 googledrive.com
 74.125.68.98 www.googledrive.com
 
+# google now
+74.125.68.98 alt1-safebrowsing.google.com
+74.125.68.98 safebrowsing.cache.l.google.com
+74.125.68.98 safebrowsing.clients.google.com
+74.125.68.98 safebrowsing.google.com
+74.125.68.98 safebrowsing-cache.google.com
+
 74.125.68.98 clients1.google.com
 74.125.68.98 clients2.google.com
 74.125.68.98 clients3.google.com
