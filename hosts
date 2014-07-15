@@ -1,5 +1,3 @@
-# UPDATE:2014-07-14
-
 74.125.68.98 www.google.com
 74.125.68.98 www.google.com.hk
 74.125.68.98 m.google.com
@@ -23,7 +21,7 @@
 
 # mail
 74.125.68.98 mail.google.com
-74.125.68.98 m.googlemail.com
+# 74.125.68.98 m.googlemail.com
 74.125.68.98 filetransferenabled.mail.google.com
 74.125.68.98 chatenabled.mail.google.com
 64.233.160.132 oauth.googleusercontent.com
@@ -97,8 +95,8 @@
 74.125.68.98 drive7.google.com
 74.125.68.98 drive8.google.com
 74.125.68.98 drive9.google.com
-74.125.68.98 googledrive.com
-74.125.68.98 www.googledrive.com
+74.125.137.133 googledrive.com
+74.125.137.133 www.googledrive.com
 
 # google now
 74.125.68.98 alt1-safebrowsing.google.com
