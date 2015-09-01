@@ -1,1 +1,6 @@
-127.0.0.1 api.share.mob.com
+api.share.mob.com
+a.appcpa.net
+apikey.map.qq.com
+vectors.map.qq.com
+tdcv3.talkingdata.net
+rqd.uu.qq.com
