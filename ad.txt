@@ -5,3 +5,8 @@
 127.0.0.1 tdcv3.talkingdata.net
 127.0.0.1 rqd.uu.qq.com
 127.0.0.1 log.tbs.qq.com
+127.0.0.1 ads.adsymptotic.com
+127.0.0.1 tongji.baidu.com
+127.0.0.1 crs.baidu.com
+127.0.0.1 secure.fastclick.net
+127.0.0.1 rm.aarki.net
