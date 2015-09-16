@@ -4,3 +4,4 @@
 127.0.0.1 vectors.map.qq.com
 127.0.0.1 tdcv3.talkingdata.net
 127.0.0.1 rqd.uu.qq.com
+127.0.0.1 log.tbs.qq.com
