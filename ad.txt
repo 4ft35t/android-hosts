@@ -10,3 +10,5 @@
 127.0.0.1 crs.baidu.com
 127.0.0.1 secure.fastclick.net
 127.0.0.1 rm.aarki.net
+127.0.0.1 log.umsns.com
+127.0.0.1 pingma.qq.com
