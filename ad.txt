@@ -12,3 +12,16 @@
 127.0.0.1 rm.aarki.net
 127.0.0.1 log.umsns.com
 127.0.0.1 pingma.qq.com
+127.0.0.1 hmma.qq.com
+127.0.0.1 www.adview.cn
+127.0.0.1 r.domob.cn
+127.0.0.1 e.domob.cn
+127.0.0.1 api.domob.cn
+127.0.0.1 mobads.baidu.com
+127.0.0.1 api2.sharesdk.cn
+127.0.0.1 wspeed.qq.com
+127.0.0.1 ads.mopub.com
+127.0.0.1 mpx.mopub.com
+127.0.0.1 v4.moatads.com
+127.0.0.1 js.moatads.com
+127.0.0.1 ads.pointroll.com
