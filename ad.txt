@@ -12,7 +12,7 @@
 127.0.0.1 rm.aarki.net
 127.0.0.1 log.umsns.com
 127.0.0.1 pingma.qq.com
-127.0.0.1 hmma.qq.com
+127.0.0.1 hmma.baidu.com
 127.0.0.1 www.adview.cn
 127.0.0.1 r.domob.cn
 127.0.0.1 e.domob.cn

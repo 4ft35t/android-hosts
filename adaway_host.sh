@@ -19,19 +19,15 @@ rm /tmp/hosts
 
 for i in $gzsrc
 do
-    wget -S --header="accept-encoding: gzip" -O- $i | gzip -d | awk '!/^#/' >> /tmp/hosts
+    wget -S --header="accept-encoding: gzip" -O- $i | gzip -d | awk '!/^#/ && !a[$0]++' >> /tmp/hosts
 done
 
 for i in $ungzsrc
 do
-    wget -S  -O- $i | awk '!/^#/' >> /tmp/hosts
+    wget -S  -O- $i | awk '!/^#/ && !a[$0]++' >> /tmp/hosts
 done
 
 for i in $whitelist
 do
     sed -i "/${i}/d" /tmp/hosts
 done
-
-awk '$2 {print "address=/"$2"/127.0.0.1"}' < /tmp/hosts |awk '!a[$0]++' | sed 's/\r//g' > adaway.conf
-
-rm /tmp/hosts
