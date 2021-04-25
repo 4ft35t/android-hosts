@@ -31,3 +31,6 @@
 127.0.0.1 zxcv.3g.qq.com
 127.0.0.1 alog.umeng.com
 127.0.0.1 pingtas.qq.com
+127.0.0.1 gzads.com
+127.0.0.1 gozendata.com
+127.0.0.1 gz-data.com
